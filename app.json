@@ -16,7 +16,7 @@
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
   "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/SpEcHiDe/AnyDLBot",
+  "repository": "https://github.com/carlptiny/TG-URL-Uploader?organization=carlptiny&organization=carlptiny",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
